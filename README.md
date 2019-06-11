@@ -46,5 +46,5 @@ ETH->BTC:
 ### Cross-chain DEX
 Use XClaim to transform cryptocurrencies from other blockchains to NEP5 tokens in the NEO blockchain the trade these tokens on the NEo blockchain for free.
 
-# Decentralized BTC token on ETH
+### Decentralized BTC token on ETH
 Implement XClaim.
