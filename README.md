@@ -3,8 +3,14 @@
 - Improve NEO Link (NEO metamask)
 - Tutorial like cryptozombies for neo
 - Proposal for private NEP token (anonymous transfers)
-- Develop compiler for Obsidian
+- Develop compiler for Obsidian or Solidity
 
+## Private domain name system
+> ENS with zero knowledge proofs to preserve privacy
+- Domains are registered through vickrey auctions (see our paper on asset distribution systems for another system that would allow combinatorial auctions)
+- Renewal system that punishes name swatting
+- Ownership is encoded using ZKP
+- Name resolution could be direct or delegated to a smart contract, classic DNS resolver or a file hosted somewhere (IPFS, NeoFS, some blockchain or a normal web server)
 
 ## DEX ideas
 - ERC20 DEX
