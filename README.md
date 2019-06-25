@@ -54,3 +54,8 @@ Use XClaim to transform cryptocurrencies from other blockchains to NEP5 tokens i
 
 ### Decentralized BTC token on ETH
 Implement XClaim.
+
+
+
+## Current
+- Create a proposal for NNS (NEO Name System)
