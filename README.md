@@ -65,3 +65,8 @@ Implement XClaim.
 
 ## NEO Research
 - IntelSGX (TownCrier) for validators
+- Solidity to NEO compiler
+  - Compatibility shim between EVM and NVM
+- Portis for NEO
+- Cryptozombies tutorial
+- Port AZTEC protocol
