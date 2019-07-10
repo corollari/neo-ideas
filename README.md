@@ -59,8 +59,7 @@ Implement XClaim.
 
 ## Current
 - Create a proposal for NNS (NEO Name System)
-- Create a public testnet with reduced gas cost and a system to give out neo/gas (like in ETH).
-  - Name: metro station in shanghai (see https://ethereum.stackexchange.com/questions/29194/why-are-the-rinkeby-and-ropsten-testnets-named-after-swedish-locations)
+- Create a public testnet with reduced gas cost and a system to give out neo/gas.
 
 
 ## NEO Research
@@ -70,3 +69,10 @@ Implement XClaim.
 - Portis for NEO
 - Cryptozombies tutorial
 - Port AZTEC protocol
+
+## Ideas with @vang1ong7ang
+- Smart contract that stores other contracts and allows calling to them
+  - Makes deployment of new SC really cheap
+- Improve toolchain for new SC programmers
+- WebAssembly for NEO
+- Dynamic GAS fees based on execution cost
